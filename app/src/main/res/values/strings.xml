@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginAppDQSB</string>
+    <string name="personal_greeting"> Hello, Don!</string>
+</resources>
